@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: 'GENIE tau neutrino identification '
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Janowski
+    family-names: Sylwester
+repository-code: >-
+  https://github.com/Sylwester101/GENIE-tau-neutrino-identification-XGBoost
+keywords:
+  - GENIE
+  - XGBoost
+  - Optuna
+license: MIT
+date-released: '2025-09-13'
